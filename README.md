@@ -10,7 +10,7 @@
 The quickest way to get start with Node.Js & Express, just clone the project:
 
 ```bash
-$ git clone https://github.com/arjunkhetia/Node.Js-Express-Project.git
+$ git clone https://github.com/arjunkhetia/Node.Js-Express-Redis-Project.git
 ```
 
 Install dependencies:
