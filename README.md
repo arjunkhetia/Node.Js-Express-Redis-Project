@@ -1,4 +1,4 @@
-# Node-Express Project   ![Version][version-image]
+# Node-Express-Redis Project   ![Version][version-image]
 
 ![Linux Build][linuxbuild-image]
 ![Windows Build][windowsbuild-image]
